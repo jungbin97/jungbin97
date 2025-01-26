@@ -5,10 +5,17 @@
 </p>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungbin97&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljb5054)](https://solved.ac/ljb5054/)
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=jungbin97&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue" alt="GitHub Stats"/>
+  </a>
+  
+  <a href="https://solved.ac/ljb5054/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ljb5054" alt="Solved.ac Profile"/>
+  </a>
+  
 </div>
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
