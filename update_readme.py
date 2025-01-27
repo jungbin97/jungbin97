@@ -48,5 +48,5 @@ def update_readme(posts):
         
 
 if __name__ == "__main__":
-    fetch_latest_blog_posts()
-    update_readme()
+    latest_posts = fetch_latest_blog_posts()
+    update_readme(latest_posts)
