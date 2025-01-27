@@ -3,6 +3,9 @@ name: Update README with Latest Blog Posts
 on:
   schedule:
     - cron: '0 * * * *'  # 매시간 정각에 실행
+  push:
+    branches:
+      - main # main 브랜치에 푸시될 때 실행
 
 jobs:
   update-readme:
