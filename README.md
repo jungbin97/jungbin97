@@ -12,7 +12,7 @@
 
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
   <img src="https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=aws&logoColor=white" alt="docker" />
-  <img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=amazonec2&logoColor=white" alt="aws" />
+  <img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="aws" />
 </div>
 
 
