@@ -27,7 +27,7 @@
 - [카프카 잘 알고 사용하기 - 카프카 내부 동작 원리(리플리케이션)](https://ego2-1.tistory.com/8)
 <!-- BLOG-POST-LIST:END -->
 
-<h2>🧑🏻‍💻 Status </h2>
+<h2>🧑🏻‍💻 Stats </h2>
 
 <div align="left" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
