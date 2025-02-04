@@ -20,11 +20,11 @@
 <h2>📚 Latest Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [레디스가 원자성을 보장하는 방법](https://ego2-1.tistory.com/12)
 - [카프카 잘 알고 사용하기 - 카프카 내부 동작 원리(카프카는 장애 복구를 어떻게 할까? - 리더에포크)](https://ego2-1.tistory.com/13)
 - [장애에 강한 MSA 서비스 만들기 위한 서킷 브레이커 패턴](https://ego2-1.tistory.com/11)
 - [의존 역전 원칙(DIP)으로 이해하는 DDD 아키텍처 설계](https://ego2-1.tistory.com/10)
 - [카프카 잘 알고 사용하기 - 카프카 클러스터 구축하기(with Docker, docker-compose)](https://ego2-1.tistory.com/9)
-- [카프카 잘 알고 사용하기 - 카프카 내부 동작 원리(리플리케이션)](https://ego2-1.tistory.com/8)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>🧑🏻‍💻 Stats </h2>
