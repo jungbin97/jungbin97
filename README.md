@@ -20,11 +20,11 @@
 <h2>📚 Latest Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [SLF4J 동작 과정과 올바른 사용법](https://ego2-1.tistory.com/22)
 - [InnoDB 스토리지 엔진 락에 대해(레코드 락, 갭 락, 넥스트 키 락, 자동증가 락)](https://ego2-1.tistory.com/21)
 - [자바에서 스레드 풀 사용하기](https://ego2-1.tistory.com/20)
 - [레디스가 원자성을 보장하는 방법](https://ego2-1.tistory.com/12)
 - [카프카 잘 알고 사용하기 - 카프카 내부 동작 원리(카프카는 장애 복구를 어떻게 할까? - 리더에포크)](https://ego2-1.tistory.com/13)
-- [장애에 강한 MSA 서비스 만들기 위한 서킷 브레이커 패턴](https://ego2-1.tistory.com/11)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>🧑🏻‍💻 Stats </h2>
