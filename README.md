@@ -20,6 +20,11 @@
 <h2>📚 Latest Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [예제로 알아보는 MySQL 트랜잭션 격리 수준과 부정합 문제들](https://ego2-1.tistory.com/23)
+- [SLF4J 동작 과정과 올바른 사용법](https://ego2-1.tistory.com/22)
+- [InnoDB 스토리지 엔진 락에 대해(레코드 락, 갭 락, 넥스트 키 락, 자동증가 락)](https://ego2-1.tistory.com/21)
+- [자바에서 스레드 풀 사용하기](https://ego2-1.tistory.com/20)
+- [레디스가 원자성을 보장하는 방법](https://ego2-1.tistory.com/12)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>🧑🏻‍💻 Stats </h2>
