@@ -20,7 +20,7 @@
 <h2>📚 Latest Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [객체지향의 사실과 오해를 다시 읽고 느낀점](https://ego2-1.tistory.com/25)
+- [[책리뷰]객체지향의 사실과 오해를 다시 읽고 느낀점](https://ego2-1.tistory.com/25)
 - [Servlet과 Servlet Container 동작 과정의 이해](https://ego2-1.tistory.com/24)
 - [예제로 알아보는 MySQL 트랜잭션 격리 수준과 부정합 문제들](https://ego2-1.tistory.com/23)
 - [SLF4J 동작 과정과 올바른 사용법](https://ego2-1.tistory.com/22)
