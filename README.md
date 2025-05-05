@@ -20,11 +20,11 @@
 <h2>📚 Latest Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [C10K 문제로 살펴보는 서버 아키텍처와 커널 I/O의 진화](https://ego2-1.tistory.com/27)
+- [URL 패턴 매칭에 Trie 자료구조를 도입할지 고민한 과정](https://ego2-1.tistory.com/26)
 - [[책리뷰]객체지향의 사실과 오해를 다시 읽고 느낀점](https://ego2-1.tistory.com/25)
 - [Servlet과 Servlet Container 동작 과정의 이해](https://ego2-1.tistory.com/24)
 - [예제로 알아보는 MySQL 트랜잭션 격리 수준과 부정합 문제들](https://ego2-1.tistory.com/23)
-- [SLF4J 동작 과정과 올바른 사용법](https://ego2-1.tistory.com/22)
-- [InnoDB 스토리지 엔진 락에 대해(레코드 락, 갭 락, 넥스트 키 락, 자동증가 락)](https://ego2-1.tistory.com/21)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>🧑🏻‍💻 Stats </h2>
