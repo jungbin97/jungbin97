@@ -20,11 +20,11 @@
 <h2>📚 Latest Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [오픈소스 분석 - Tomcat 소켓 I/O 동작 방식 파헤쳐보기(BIO, NIO)](https://ego2-1.tistory.com/30)
 - [자바에서는 멀티플렉싱을 어떻게 지원할까? &ndash; Java NIO의 Selector](https://ego2-1.tistory.com/29)
 - [[책리뷰] 스프링 입문을 위한 자바 객체지향의 원리와 이해를 읽고](https://ego2-1.tistory.com/28)
 - [C10K 문제로 살펴보는 서버 아키텍처와 커널 I/O의 진화](https://ego2-1.tistory.com/27)
 - [URL 패턴 매칭에 Trie 자료구조를 도입할지 고민한 과정](https://ego2-1.tistory.com/26)
-- [[책리뷰] 객체지향의 사실과 오해를 다시 읽고 느낀점](https://ego2-1.tistory.com/25)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>🧑🏻‍💻 Stats </h2>
