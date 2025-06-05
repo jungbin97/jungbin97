@@ -20,7 +20,7 @@
 <h2>📚 Latest Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [다양한 I/O 모델을 지원하기 위한 Connector 구조 개선기(Strategy, Template Method 패턴)](https://ego2-1.tistory.com/31) (2025.05.31)
+- [다양한 I/O 모델을 지원하기 위한 Connector 구조 개선(Strategy, Template Method 패턴)](https://ego2-1.tistory.com/31) (2025.05.31)
 - [오픈소스 분석 - Tomcat 소켓 I/O 동작 방식 파헤쳐보기(BIO, NIO Connector)](https://ego2-1.tistory.com/30) (2025.05.28)
 - [자바에서는 멀티플렉싱을 어떻게 지원할까? &ndash; Java NIO의 Selector](https://ego2-1.tistory.com/29) (2025.05.14)
 - [[책리뷰] 스프링 입문을 위한 자바 객체지향의 원리와 이해를 읽고](https://ego2-1.tistory.com/28) (2025.05.13)
