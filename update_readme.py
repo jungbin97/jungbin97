@@ -1,6 +1,7 @@
 ## update_blog.py
 import feedparser
 import os
+from datetime import datetime
 
 
 # RSS 피드 URL
@@ -20,7 +21,14 @@ def fetch_latest_blog_posts():
     for entry in feed.entries[:MAX_POST_COUNT]:
         title = entry.title
         link = entry.link
-        posts.append(f"- [{title}]({link})")
+		
+        try:
+            published_date_tuple = entry.published_parsed
+            published_date = datetime(*published_date_tuple[:6]) # 년, 월, 일, 시, 분, 초만 사용
+            formatted_date = published_date.strftime("%Y.%m.%d")
+        except AttributeError:
+            formatted_date = "Unknown Date"
+        posts.append(f"- [{title}]({link}) ({formatted_date})")
     
     return posts
 
